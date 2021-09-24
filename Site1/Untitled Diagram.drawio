@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T17:58:55.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="HROuv6iDNZ-8keQlvNzh" version="15.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-24T18:02:44.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Cob857fhNAnJujP1Cvz7" version="15.3.1" type="github" pages="4">
   <diagram id="b1_00yB5uApa2LcKgeh4" name="Home page">
     <mxGraphModel dx="2071" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="4E_jJfNS61fkHT7GmWl9-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4E_jJfNS61fkHT7GmWl9-2" target="4E_jJfNS61fkHT7GmWl9-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4E_jJfNS61fkHT7GmWl9-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="70" width="30" height="60" as="geometry" />
+        <mxCell id="4E_jJfNS61fkHT7GmWl9-2" value="Mihai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4E_jJfNS61fkHT7GmWl9-3" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4E_jJfNS61fkHT7GmWl9-4" target="4E_jJfNS61fkHT7GmWl9-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
