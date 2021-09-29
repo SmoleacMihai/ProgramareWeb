@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T08:14:55.156Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="g27yRWNFIEns0ZZyhKSN" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T08:23:50.749Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="c4g20Yi4xZ-nhoN-MkRB" version="15.3.7" type="github">
   <diagram id="b1_00yB5uApa2LcKgeh4" name="Home page">
-    <mxGraphModel dx="3274" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3537" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
           <mxGeometry x="-650" y="1364.5" width="92.07" height="71" as="geometry" />
         </mxCell>
         <mxCell id="9qxW6SAQw-OEDm3y2XXn-12" value="Description" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;fillColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-780" y="1450" width="150" height="255" as="geometry" />
+          <mxGeometry x="-760" y="1460" width="150" height="255" as="geometry" />
         </mxCell>
         <mxCell id="9qxW6SAQw-OEDm3y2XXn-13" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;sketch=0;image=https://image.spreadshirtmedia.net/image-server/v1/compositions/T15A10PA13PT1X1Y1D120970555FS1363/views/1,width=650,height=650,appearanceId=10/its-a-german-nationball-aka-countryball-or-polandball-with-beer-uend-bratwurst.jpg;" parent="1" vertex="1">
           <mxGeometry x="-330" y="1290" width="90" height="90" as="geometry" />
